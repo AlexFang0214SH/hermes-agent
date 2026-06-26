@@ -1,0 +1,17 @@
+schema_version: 1
+module_path: build_system
+title: Hermes Agent 构建与发布系统
+scope: []
+source_files:
+    - pyproject.toml
+    - uv.lock
+    - Dockerfile
+    - flake.nix
+    - package.json
+    - .github/workflows/docker-publish.yml
+    - .github/workflows/tests.yml
+    - .github/workflows/lint.yml
+    - scripts/release.py
+    - nix/packages.nix
+depends_on: []
+related_to: []

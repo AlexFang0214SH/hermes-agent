@@ -1,0 +1,12 @@
+schema_version: 1
+module_path: error_handling
+title: 智能体运行时错误分类与故障转移机制
+scope: []
+source_files:
+    - agent/error_classifier.py
+    - agent/errors.py
+    - agent/retry_utils.py
+    - agent/conversation_loop.py
+    - run_agent.py
+depends_on: []
+related_to: []

@@ -1,0 +1,8 @@
+schema_version: 1
+module_path: hermes_core/messaging_gateway/gateway_core
+title: 多平台消息网关核心
+scope:
+    - gateway/
+source_files: []
+depends_on: []
+related_to: []

@@ -1,0 +1,11 @@
+schema_version: 1
+module_path: infra
+title: 多平台部署与基础设施编排
+scope:
+    - docker/
+    - nix/
+    - packaging/
+    - scripts/
+source_files: []
+depends_on: []
+related_to: []

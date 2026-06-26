@@ -1,0 +1,9 @@
+schema_version: 1
+module_path: hermes_core/agent_runtime
+title: Hermes Agent Runtime Core
+scope:
+    - agent/
+source_files: []
+depends_on: []
+related_to:
+    - path: hermes_core/messaging_gateway

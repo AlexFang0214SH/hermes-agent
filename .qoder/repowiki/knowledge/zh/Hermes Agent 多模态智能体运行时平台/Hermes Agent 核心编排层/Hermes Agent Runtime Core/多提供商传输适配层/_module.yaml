@@ -1,0 +1,8 @@
+schema_version: 1
+module_path: hermes_core/agent_runtime/core_runtime
+title: 多提供商传输适配层
+scope:
+    - agent/
+source_files: []
+depends_on: []
+related_to: []

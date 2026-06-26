@@ -1,0 +1,13 @@
+schema_version: 1
+module_path: configuration_system
+title: Hermes Agent 配置系统架构与规范
+scope: []
+source_files:
+    - hermes_cli/config.py
+    - gateway/config.py
+    - hermes_cli/env_loader.py
+    - hermes_constants.py
+    - cli-config.yaml.example
+    - hermes_cli/fallback_config.py
+depends_on: []
+related_to: []

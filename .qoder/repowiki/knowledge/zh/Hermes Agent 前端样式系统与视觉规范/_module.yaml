@@ -1,0 +1,14 @@
+schema_version: 1
+module_path: frontend_style
+title: Hermes Agent 前端样式系统与视觉规范
+scope: []
+source_files:
+    - web/src/index.css
+    - web/src/themes/presets.ts
+    - apps/desktop/src/styles.css
+    - apps/desktop/src/themes/presets.ts
+    - apps/desktop/components.json
+    - apps/desktop/src/components/ui/button.tsx
+    - apps/desktop/src/lib/utils.ts
+depends_on: []
+related_to: []

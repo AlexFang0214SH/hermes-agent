@@ -1,0 +1,16 @@
+schema_version: 1
+module_path: hermes_core
+title: Hermes Agent 核心编排层
+scope:
+    - agent/
+    - gateway/
+    - hermes_cli/
+    - tools/
+    - plugins/
+    - providers/
+    - cron/
+    - acp_adapter/
+    - tui_gateway/
+source_files: []
+depends_on: []
+related_to: []

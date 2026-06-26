@@ -1,0 +1,10 @@
+schema_version: 1
+module_path: hermes_core/tools_subsystem/mcp_tools
+title: MCP工具集成与OAuth认证管理
+scope:
+    - tools/mcp_oauth.py
+    - tools/mcp_oauth_manager.py
+    - tools/mcp_tool.py
+source_files: []
+depends_on: []
+related_to: []

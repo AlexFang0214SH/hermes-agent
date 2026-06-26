@@ -1,0 +1,8 @@
+schema_version: 1
+module_path: hermes_core/cli_tooling
+title: Hermes CLI 核心与子命令架构
+scope:
+    - hermes_cli/
+source_files: []
+depends_on: []
+related_to: []

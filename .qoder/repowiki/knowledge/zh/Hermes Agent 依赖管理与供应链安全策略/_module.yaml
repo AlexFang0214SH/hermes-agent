@@ -1,0 +1,17 @@
+schema_version: 1
+module_path: dependency_management
+title: Hermes Agent 依赖管理与供应链安全策略
+scope: []
+source_files:
+    - pyproject.toml
+    - uv.lock
+    - package.json
+    - package-lock.json
+    - flake.nix
+    - .github/dependabot.yml
+    - tools/lazy_deps.py
+    - apps/desktop/package.json
+    - web/package.json
+    - ui-tui/package.json
+depends_on: []
+related_to: []

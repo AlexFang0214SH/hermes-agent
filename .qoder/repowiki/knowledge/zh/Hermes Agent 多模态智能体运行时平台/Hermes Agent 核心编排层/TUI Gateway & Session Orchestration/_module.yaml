@@ -1,0 +1,11 @@
+schema_version: 1
+module_path: hermes_core/tui_gateway
+title: TUI Gateway & Session Orchestration
+scope:
+    - tui_gateway/
+source_files: []
+depends_on: []
+related_to:
+    - path: hermes_core/acp_adapter
+    - path: tui_app
+    - path: web_dashboard

@@ -1,0 +1,9 @@
+schema_version: 1
+module_path: tui_app
+title: TUI 应用核心逻辑与状态管理
+scope:
+    - ui-tui/
+source_files: []
+depends_on: []
+related_to:
+    - path: hermes_core/tui_gateway
